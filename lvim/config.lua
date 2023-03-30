@@ -175,6 +175,9 @@ lvim.plugins = {
 
   -- smooth scroll
   { "karb94/neoscroll.nvim" },
+
+  -- python env
+  { "PieterjanMontens/vim-pipenv" },
 }
 vim.g.copilot_no_tab_map = true
 vim.g.copilot_assume_mapped = true
